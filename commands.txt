@@ -1,4 +1,6 @@
 git init=> to initilise git 
 git status=> list all untracked files.
 git add -A=> adding  to staging area
-git commit -m => adding staging area to local repository
+git commit -m => adding staging area to local repository.
+git remote add name path
+git push -u name branch 
